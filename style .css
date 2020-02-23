@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto Slab', ;
+}
+h1{
+    font-size: 50px;
+}
+.s{
+    color: orange;
+}
+.hafe-wight{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.hafe-wight img{
+    width: 100%;
+}
