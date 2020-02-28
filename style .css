@@ -23,6 +23,7 @@ p{
 .top-bannar{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
+    height: 100%;
 }
 section{
     height: 500px;
